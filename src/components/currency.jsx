@@ -31,7 +31,7 @@ class Convert extends Component {
       x: 0,
       y: 0,
       source: "INR",
-      destination: "INR",
+      destination: "",
       flag: 0
     };
   }

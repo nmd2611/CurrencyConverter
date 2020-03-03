@@ -16,7 +16,7 @@ class App extends Component {
     return (
       <div>
         <Convert />
-        <Footer />
+        {/* <Footer /> */}
       </div>
     );
   }
